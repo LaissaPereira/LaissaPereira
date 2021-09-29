@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaissaPereira QA Analyst at Babbel
 - 👀 I’m interested in automation Test give more powerful to delivery quality product and support manual tests 
-- 🌱 I’m currently learning for automation test - Robot Framework | Playwright | Web , API and Appium | Android | Mobile 
+- 🌱 I’m currently learning automation test - Robot Framework | Playwright | Web , API and Appium | Android | Mobile 
 - 📫 How to reach me www.linkedin.com/in/laissapereira
 
 <!---
