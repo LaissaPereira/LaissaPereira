@@ -74,9 +74,6 @@ REST APIs · Unit & integration testing · Dependency injection · Clean archite
 
 I'm looking for **junior / entry-level roles, graduate opportunities, or internships** in **iOS, backend, or full-stack development**. I enjoy collaborating, learning from experienced engineers, and helping build products that people love using.
 
-## 📫 Let's connect
-
-Explore my work and reach out via **[my GitHub profile](https://github.com/LaissaPereira)**.
 
 ---
 
