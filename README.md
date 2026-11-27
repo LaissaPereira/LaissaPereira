@@ -96,28 +96,6 @@ REST APIs · Layered architecture · Dependency injection · Authentication & au
 | 🎬 **[Movie Diary](https://github.com/LaissaPereira/Movie-Diary-React-TypeScript)** | Movie diary using modern React state and data-fetching tools. | React, TypeScript, TanStack Query |
 | 📖 **[Personal Diary](https://github.com/LaissaPereira/personal-diary-react)** | Personal diary with validated forms, reusable components, routing, and state management. | React, TypeScript, Vite, Tailwind CSS |
 
-## 🤖 Featured engineering project: AI-Integrated Events App
-
-I'm extending my full-stack Events application with an AI integration layer that enables users to interact with application functionality through natural language.
-
-### What I've implemented
-
-- REST API integration with AI agents.
-- LLM tool calling using the Anthropic SDK.
-- Custom MCP server and client using TypeScript.
-- Dynamic MCP tool discovery and execution.
-- React chat interface connected to an Express backend.
-- Natural-language event retrieval through MCP tools.
-- Event operations through AI tool calling and n8n workflows.
-- Multi-turn conversations and persistent conversation memory.
-- Database integration tests and transaction rollback testing.
-- Docker-based backend infrastructure.
-
-### MCP integration architecture
-
-The project explores how traditional backend services can be extended with AI capabilities while maintaining a separation between application logic, data access, and AI integrations.
-
-**[Explore the Events App repository →](https://github.com/LaissaPereira/Next.js-Events-App)**
 
 ## 🌱 Currently growing my skills in
 
